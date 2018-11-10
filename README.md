@@ -49,3 +49,8 @@ lambda-uploader　　--profile profile_name
 Î» Fin
 ```
 
+
+### 参考文献
+https://qiita.com/isobecky74/items/88e8e0dcb0ee224a31e4
+
+※AWSの設定などは上記を参考にしてください。
